@@ -1,4 +1,4 @@
-package human;
+package composition.exampleHuman;
 
 import java.util.ArrayList;
 

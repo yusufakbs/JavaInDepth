@@ -8,4 +8,22 @@
   - Relation (has-a)
   - Association 
   - Composition
- 
+- Inheritance: Extends
+  - Code duplication
+  - instanceof: Bir nesnenin belirtilen bir sınıfın örneği olup olmadığını kontrol etmek için kullanılır.
+  - Java'da inheritance bir is-a relationship'dir. Yani yalnızca iki class arasında is-a relationship varsa inheritance kullanabiliriz.
+  - super keyword, subclass methodundan superclass methodunu çağırmak için kullanılır.
+  - subclass, superclass'ın daha özellşmiş hali olmalıdır yani kalıtım yaparken bir hiyerarşiden söz etmemiz gereklidir.
+  - Java'da bir class, sadece bir tane superclass'dan miras alabilir ancak birden fazla interface uygulayabilir(çoklu interface).
+- Overriding: @Overrides
+- Abstract class (Soyut sınıf) : Diğer sınıflar tarafından genişletilmesi gereken ve kendisi doğrudan bir nesne oluşturulamayan bir sınıftır. Abstract classlar genellikle ortak davranışları ve özellikleri içeren sınıflar için kullanılır.
+- Abstract method
+- Polymorphism (Çok biçimlilik)
+- Encapsulation: 
+  - getter and setter -> Access specifier
+  - Instance variable'lar private tanımlanmalıdır.
+- Single inheritance
+- Multipe inheritance
+- Interface
+- Polymorphism
+- 

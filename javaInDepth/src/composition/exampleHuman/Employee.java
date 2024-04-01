@@ -1,4 +1,4 @@
-package human;
+package composition.exampleHuman;
 
 public class Employee {
     private long employeeId;
