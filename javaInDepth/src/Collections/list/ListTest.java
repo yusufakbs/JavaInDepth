@@ -1,4 +1,4 @@
-package Collections;
+package Collections.list;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -6,7 +6,10 @@ import java.util.List;
 
 public class ListTest {
     public static void main(String[] args) {
-        List<String> provinceList = new ArrayList<String>();
+
+
+
+        List<String> provinceList = new ArrayList<>();
         // add
         provinceList.add("Test1");
         provinceList.add("Test2");

@@ -5,6 +5,8 @@ import java.util.List;
 
 public class Test {
     public static void main(String[] args) {
+        Category[] categoryC = new Category[4];
+        categoryC[0].setCategoryId(1);
         Category categoryA = new Category(321,"Beyaz Esya");
         categoryA.setProductList(new ArrayList<Product>());
 
