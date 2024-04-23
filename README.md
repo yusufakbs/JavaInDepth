@@ -38,5 +38,10 @@
 - Interface: Bir sınıfın sahip olabileceği davranışları tanımlayan bir yapıdır. Bir interface, sınıflar arasında bir tür sözleşme sağlar ve bir sınıfın belirli bir davranış setini sağlamasını garanti eder. Interface'ler genellikle bir sınıfın sahip olabileceği metodları tanımlar, ancak bu metodlar için herhangi bir kod içermez, yalnızca imzaları (isimleri, parametreleri ve dönüş türü) belirtirler. Sınıflar, bir interface'i implements anahtar kelimesiyle uygulayarak, interface'in tanımladığı tüm metodları sağlamak zorundadır. Bu şekilde, Java'da çoklu kalıtımı sağlayarak bir sınıfın birden fazla interface'i uygulamasına olanak tanır
 - Polymorphism
 - Specification
-  - 
 - Implementation
+- Static and Final
+  - Durağan (static) alanlar
+  - Durağan (static) yöntemler
+  - Son (final) alanlar
+  - Son (final) yöntem ve sınıflar
+  - Son ve değişmez (final static) alanlar
