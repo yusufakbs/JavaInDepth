@@ -49,7 +49,7 @@
   - Dynamic inner class : Üst sınıfa ulaşmadan alt sınıfa ulaşım sağlanamıyor.
   - Static inner class : Aynı sınıfta bulunmalarına rağmen farklı kapılardan erişim sağlanabiliyor. Üst sınıftan alt sınıf oluşturulabiliyor. 
   - Anonymous inner class
-Not : Static olmayan bir field doğrudan bir static methodun içinde çağıramazsın.
+* Not : Static olmayan bir field doğrudan bir static methodun içinde çağıramazsın.
 
 
 
