@@ -1,4 +1,4 @@
-package stringOperations;
+package stringOperations.strings;
 
 public class BuilderTest {
     public static void main(String[] args) {

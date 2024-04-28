@@ -1,4 +1,4 @@
-package stringOperations;
+package stringOperations.strings;
 
 import java.util.StringTokenizer;
 

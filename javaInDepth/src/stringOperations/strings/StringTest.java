@@ -1,4 +1,4 @@
-package stringOperations;
+package stringOperations.strings;
 
 public class StringTest {
     public static void main(String[] args) {
